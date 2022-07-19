@@ -1,8 +1,6 @@
+jupyter_client
+nbconvert
 numpy
-pandas
-seaborn
 matplotlib
 sklearn
-install
-jupyterlab
-kaggle
+ipykernel
